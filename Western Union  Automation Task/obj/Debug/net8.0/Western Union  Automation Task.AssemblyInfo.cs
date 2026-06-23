@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Western Union  Automation Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cba172b7f063fe2496c5b02c7f64962c14e0ad57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064970cc0ef5e87466f337ada67bf5670be6f26c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Western Union  Automation Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Western Union  Automation Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

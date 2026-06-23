@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task\\Western Union  Automation Task.csproj": {}
+    "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task.csproj": {}
   },
   "projects": {
-    "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task\\Western Union  Automation Task.csproj": {
+    "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task\\Western Union  Automation Task.csproj",
+        "projectUniqueName": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task.csproj",
         "projectName": "Western Union  Automation Task",
-        "projectPath": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task\\Western Union  Automation Task.csproj",
+        "projectPath": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\Western Union  Automation Task\\obj\\",
+        "outputPath": "D:\\My Files\\Tasks\\western-union-automation-task\\Western Union  Automation Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

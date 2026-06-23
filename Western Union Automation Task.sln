@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Western Union Automation Task", "src\Western Union Automation Task\Western Union Automation Task.csproj", "{6A9FE6F7-2C99-41F9-B0EF-14C26F26D37A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Western Union Automation Task.Core", "src\WesternUnionAutomationTask.Core\WesternUnionAutomationTask.Core.csproj", "{A789192D-02E8-41F0-98FB-C987022C9C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Western Union Automation Task.RPA", "src\WesternUnionAutomationTask.Rpa\WesternUnionAutomationTask.Rpa.csproj", "{01854F37-5F4B-43EC-84C4-E60214996912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Western Union Automation Task.Tests", "tests\WesternUnionAutomationTask.Tests\WesternUnionAutomationTask.Tests.csproj", "{DE79F70B-305D-4E77-8F5A-CE44FE8A4051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A9FE6F7-2C99-41F9-B0EF-14C26F26D37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9FE6F7-2C99-41F9-B0EF-14C26F26D37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9FE6F7-2C99-41F9-B0EF-14C26F26D37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9FE6F7-2C99-41F9-B0EF-14C26F26D37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A789192D-02E8-41F0-98FB-C987022C9C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A789192D-02E8-41F0-98FB-C987022C9C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A789192D-02E8-41F0-98FB-C987022C9C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A789192D-02E8-41F0-98FB-C987022C9C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01854F37-5F4B-43EC-84C4-E60214996912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01854F37-5F4B-43EC-84C4-E60214996912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01854F37-5F4B-43EC-84C4-E60214996912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01854F37-5F4B-43EC-84C4-E60214996912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE79F70B-305D-4E77-8F5A-CE44FE8A4051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE79F70B-305D-4E77-8F5A-CE44FE8A4051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE79F70B-305D-4E77-8F5A-CE44FE8A4051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE79F70B-305D-4E77-8F5A-CE44FE8A4051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

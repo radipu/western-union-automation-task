@@ -1,0 +1,12 @@
+Western Union Automation Task - Deployment Notes
+
+This folder is reserved for the published Windows app.
+
+To create the deployable application package on a Windows machine with .NET 8 SDK installed:
+1. Open the project root folder.
+2. Run: build\Publish-Windows-App.bat
+3. The deployable app will be created in: deployment\Western Union Automation Task-win-x64
+4. Share the full Western Union Automation Task-win-x64 folder with the operator.
+5. The operator runs Western Union Automation Task.exe and selects the CSV file.
+
+The published app is self-contained for Windows x64, so the operator should not need to open Visual Studio or run the source code.

@@ -1,0 +1,24 @@
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.deps.json
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.csproj.AssemblyReference.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.AssemblyInfoInputs.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.AssemblyInfo.cs
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.csproj.CoreCompileInputs.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\refint\WesternUnionAutomationTask.Core.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\ref\WesternUnionAutomationTask.Core.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.deps.json
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\bin\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.csproj.AssemblyReference.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.AssemblyInfoInputs.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.AssemblyInfo.cs
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.csproj.CoreCompileInputs.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\refint\WesternUnionAutomationTask.Core.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Core\obj\Debug\net8.0\ref\WesternUnionAutomationTask.Core.dll

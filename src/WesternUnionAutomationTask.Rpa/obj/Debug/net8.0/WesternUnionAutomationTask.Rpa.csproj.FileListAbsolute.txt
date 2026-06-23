@@ -1,0 +1,36 @@
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.deps.json
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.pdb
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.csproj.AssemblyReference.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.AssemblyInfoInputs.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.AssemblyInfo.cs
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.csproj.CoreCompileInputs.cache
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternU.DEB736FE.Up2Date
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\refint\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.pdb
+D:\My Files\Western_Union_Automation_Task_v5_with_README\Western Union Automation Task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\ref\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.deps.json
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Rpa.pdb
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Core.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\bin\Debug\net8.0\WesternUnionAutomationTask.Core.pdb
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.csproj.AssemblyReference.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.AssemblyInfoInputs.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.AssemblyInfo.cs
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.csproj.CoreCompileInputs.cache
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternU.DEB736FE.Up2Date
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\refint\WesternUnionAutomationTask.Rpa.dll
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\WesternUnionAutomationTask.Rpa.pdb
+D:\My Files\Tasks\western-union-automation-task\src\WesternUnionAutomationTask.Rpa\obj\Debug\net8.0\ref\WesternUnionAutomationTask.Rpa.dll
